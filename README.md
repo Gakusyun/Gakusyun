@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-Genshin Impact uid:111225816
+[Genshin Impact](https://ys.mihoyo.com/) uid: 111225816
 
-Honkai:Star rail uid:100255980
+[Honkai:Star Rail](https://sr.mihoyo.com/) uid: 100255980
+
+Have a good time. 
 
 <!--
 **Gakusyun/Gakusyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
